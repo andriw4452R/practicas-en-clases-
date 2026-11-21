@@ -1,0 +1,6 @@
+laravel/.env
+laravel/vendor/
+laravel/node_modules/
+laravel/database/*.sqlite
+laravel/storage/logs/
+laravel/bootstrap/cache/*.php
